@@ -1,0 +1,7 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">Gestor de Películas</string>
+    <string name="director_format">Director: %s</string>
+    <string name="action_search">Buscar</string>
+    <string name="add_movie">Agregar película</string>
+    <string name="poster_desc">Póster de la película</string>
+</resources>
